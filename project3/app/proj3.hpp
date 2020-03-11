@@ -2,6 +2,7 @@
 #define __PROJ_3_HPP
 
 #include <vector>
+#include "../include/edge.hpp"
 
 /*
  * given this graph, this computes a TSP journey by using the NNA algorithm from 
